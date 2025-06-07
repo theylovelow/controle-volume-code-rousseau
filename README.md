@@ -1,5 +1,5 @@
 # Contrôle du volume sur le Code Rousseau.
-Un petit script pour ajouter un contrôle du volume sur le site Code Rousseau. Il affiche un slider discret en haut à droite de l’écran pour régler le son des vidéos et audios pendant les entraînements.
+Un petit script pour ajouter un contrôle du volume sur le site Code Rousseau. Il affiche un slider discret en haut à droite de l’écran pour régler le son des vidéos et audios pendant les sessions de code.
 
 <h3 align="center">Installation</h3>
 
