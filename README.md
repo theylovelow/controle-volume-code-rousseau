@@ -5,7 +5,7 @@ Un petit script pour ajouter un contrôle du volume sur le site Code Rousseau. I
 
 ###
 
-<p align="left">1 » Installe [Tampermonkey](https://www.tampermonkey.net/)</p>
+<p align="left">1 » Installe Tampermonkey --» https://www.tampermonkey.net/</p>
 
 ###
 
